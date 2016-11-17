@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="scala-sdk-2.11.8" type="Scala">
+    <properties>
+      <compiler-classpath>
+        <root url="file:///usr/local/spark/spark-2.0.1-bin-hadoop2.7/jars/scala-compiler-2.11.8.jar" />
+        <root url="file:///usr/local/spark/spark-2.0.1-bin-hadoop2.7/jars/scala-reflect-2.11.8.jar" />
+        <root url="file:///usr/local/spark/spark-2.0.1-bin-hadoop2.7/jars/scala-library-2.11.8.jar" />
+      </compiler-classpath>
+    </properties>
+    <CLASSES>
+      <root url="jar:///usr/local/spark/spark-2.0.1-bin-hadoop2.7/jars/scala-parser-combinators_2.11-1.0.4.jar!/" />
+      <root url="jar:///usr/local/spark/spark-2.0.1-bin-hadoop2.7/jars/scala-xml_2.11-1.0.2.jar!/" />
+      <root url="jar:///usr/local/spark/spark-2.0.1-bin-hadoop2.7/jars/scala-reflect-2.11.8.jar!/" />
+      <root url="jar:///usr/local/spark/spark-2.0.1-bin-hadoop2.7/jars/scala-library-2.11.8.jar!/" />
+      <root url="file:///usr/local/spark/spark-2.0.1-bin-hadoop2.7/jars" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="http://www.scala-lang.org/api/2.11.8/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file:///usr/local/spark/spark-2.0.1-bin-hadoop2.7/jars" />
+    </SOURCES>
+    <jarDirectory url="file:///usr/local/spark/spark-2.0.1-bin-hadoop2.7/jars" recursive="false" />
+    <jarDirectory url="file:///usr/local/spark/spark-2.0.1-bin-hadoop2.7/jars" recursive="false" type="SOURCES" />
+  </library>
+</component>
